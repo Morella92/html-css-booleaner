@@ -1,5 +1,7 @@
 .testata{
+    background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
+    background-size: contain;
 }
 
 
